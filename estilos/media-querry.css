@@ -4,3 +4,17 @@
     margin: 0px;
     padding: 0px;
 }
+
+body {
+    background: url(../imagens/sa-landing2.png);
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    height: 5vh;
+
+}
+
